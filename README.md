@@ -10,7 +10,7 @@ A IT engineer passionate about Data Science :bar_chart:. I like automating thing
 - 🔭 I’m currently working on:
   - UNREAL ENGINE GAME DEVELOPMENT
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- 💬 Talk to me about Design :racing_car:, Marketing, anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
 
 ### My skills include
